@@ -1,0 +1,68 @@
+body {
+    font-family: sans-serif;
+}
+
+h1 {
+    border: 3px solid green;
+    text-align: center;
+    font-size: 60px;
+    font-family: cursive;
+}
+
+h2{
+    font-size: 40px;
+    border: 3px solid peru;
+    font-family: cursive;
+}
+
+a {
+    color: black;
+    font-size: 20px;
+    font-family: cursive;
+}
+
+p, img {
+    border: 3px solid peru;
+    font-family: cursive;
+}
+
+p, table {    
+    font-size: 20px;
+    font-family: cursive;
+}
+
+table {
+    background-color: lightyellow;
+    text-align: center;
+    border-collapse: collapse;
+    font-family: cursive;
+}
+
+td{
+    border: 1px solid brown;
+    font-family: cursive;
+}
+
+main p{
+    background-color: #f7ec7fff;
+    border-left: 6px dashed black;
+    border-right: 10px dotted red;
+    border-bottom: 6px dashed black;
+    border-top: 10px dotted red;
+}
+
+main img{
+    background-color: #f7ec7fff;
+    border-left: 6px dashed black;
+    border-right: 10px dotted red;
+    border-bottom: 6px dashed black;
+    border-top: 10px dotted red;
+}
+
+main h2{
+    background-color: #f7ec7fff;
+    border-left: 6px dashed black;
+    border-right: 10px dotted red;
+    border-bottom: 6px dashed black;
+    border-top: 10px dotted red;
+}
